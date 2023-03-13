@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanson</h1>
-<h3 align="center">A full-stack developer based on the Bay Area</h3>
+<h3 align="center">A full-stack developer based in the Bay Area</h3>
 
 - 🔭 I’m currently working on **a roommate matching app with AggieWorks**
 
