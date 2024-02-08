@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanson</h1>
 <h3 align="center">A software engineer based in the Bay Area</h3>
 
-- 🔭 I’m currently working on [a full-stack booking website](https://github.com/hansonguyen/cabin-booking)
+- 🔭 I’m currently working on a food social media app (FEED)
 
 - 🌱 I’m currently learning **Docker, AWS, and Go**
 
