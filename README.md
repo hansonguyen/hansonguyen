@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a food social media app (FEED)
 
-- 🌱 I’m currently learning **Docker, AWS, and Go**
+- 🌱 I’m currently learning **Terraform, Django, and PyTorch**
 
 - 👨‍💻 All of my projects are available at [https://hansonn.com/](https://hansonn.com/)
 
