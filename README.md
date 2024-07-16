@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanson</h1>
 <h3 align="center">A software engineer based in the Bay Area</h3>
 
-- 🔭 I’m currently working oat Capital One as a Software Engineering Intern
+- 🔭 I’m currently working at Capital One as a Software Engineering Intern
 
 - 🌱 I’m currently learning **Terraform, Django, and PyTorch**
 
