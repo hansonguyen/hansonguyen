@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hanson</h1>
 <h3 align="center">A software engineer based in the Bay Area</h3>
 
-- 🔭 I’m currently working at Dolby as a Software Engineer Intern
+- 🔭 I’m currently the Director of Engineering at AggieWorks building products for over 40,000 students
 
-- 🌱 I’m currently learning **Terraform, Django, and PyTorch**
+- 🌱 I’m currently learning **Hono and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://hansonn.com/](https://hansonn.com/)
 
