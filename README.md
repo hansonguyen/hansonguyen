@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently a SDE I at Amazon
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently building my own app 🤫
 
 - 👨‍💻 All of my projects are available at [https://hansonn.com/](https://hansonn.com/)
-
-- 📫 How to reach me **hhnnguyen@ucdavis.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
